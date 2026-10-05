@@ -1,0 +1,6 @@
+{
+  "name": "FINDIT — The Last-Minute Campus Finder",
+  "description": "AI-powered urgent campus resource finder to locate, match, and reserve calculators, chargers, lab equipment, and more across campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
