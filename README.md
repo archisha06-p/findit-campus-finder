@@ -127,3 +127,9 @@ findit-campus-finder/
 ## 📄 License
 
 MIT License. Designed and built as a campus utility prototype.
+
+<img width="1527" height="670" alt="Screenshot 2026-10-05 211058" src="https://github.com/user-attachments/assets/a80dc731-0231-4cb2-b6a7-aa516d3eac02" />
+<img width="1527" height="657" alt="Screenshot 2026-10-05 211018" src="https://github.com/user-attachments/assets/1a6e9d2a-ca95-48c7-b1ac-9d8053ddb0a1" />
+<img width="1528" height="670" alt="Screenshot 2026-10-05 210949" src="https://github.com/user-attachments/assets/326f39ea-f236-49f6-b886-cf6b3b55653a" />
+<img width="1525" height="666" alt="Screenshot 2026-10-05 210916" src="https://github.com/user-attachments/assets/e7272654-c586-4810-b6c8-013d9796f6ef" />
+
